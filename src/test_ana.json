@@ -1,0 +1,6 @@
+{
+  "nombre": "Ana",
+  "edad": 25,
+  "habilidades": ["HTML", "CSS"],
+  "activo": false
+}
